@@ -1,0 +1,11 @@
+data:law of fact.
+data pre procesing:it is required for null output.
+	1.rescaleing data:[0,1]-min-max normalisation
+			[-1,1]-mean normalisation
+			x=[x-min(x)]/[max(x)-min(x)]{for min max}
+			x'=[x-avg(x)]/(max(x)-min(x)){for mean normalization}
+	2.standard diviation:stanadarddeviation=(1/nsumation(x-x')^2).
+	3.describe keyword is used as deascribe().
+	4.shape of dataset:
+	fillna:used to alert mean value to a null place.
+			 
