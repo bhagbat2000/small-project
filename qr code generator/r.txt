@@ -1,0 +1,1 @@
+This is a code for generating qr code
